@@ -8,4 +8,4 @@ and then when tapping all the custom words inside the TextView The `.setOnTextCl
 In this way, sentences can be translated into other languages more easily and The locations of tactile sentences
 remain fixed in all languages.
 
-Medium Article: https://medium.com/p/2b70e2072453
+Apply From Medium Article: https://medium.com/p/2b70e2072453
